@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEFCF9"
+    android:orientation="vertical"
+    tools:context=".d_0_0_Profile_view">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@drawable/navigation_bar_2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/view_profile_page_back_btn_id"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginRight="-42dp"
+                    android:background="@drawable/custom_button_1_2" />
+
+                <androidx.appcompat.widget.AppCompatImageButton
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="10dp"
+                    android:background="@drawable/back_arraw" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingEnd="15dp"
+                    android:text="Profile"
+                    android:textColor="#027C64"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="10dp"
+                android:layout_weight="1"
+                android:gravity="end"></LinearLayout>
+        </LinearLayout>
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="15dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <androidx.appcompat.widget.AppCompatButton
+                            android:id="@+id/view_profile_page_background_img_btn_id"
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:layout_marginTop="100dp"
+                            android:background="@drawable/custom_button_1" />
+
+                        <com.google.android.material.imageview.ShapeableImageView
+                            android:id="@+id/view_profile_page_background_img_id"
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:layout_marginTop="-200dp"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/background_img"
+                            app:shapeAppearanceOverlay="@style/TopCornerRound" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="-300dp"
+                        android:orientation="horizontal"
+                        android:weightSum="10">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="5"
+                            android:orientation="vertical">
+
+                            <LinearLayout
+                                android:id="@+id/view_profile_page_top_layout_2_id"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:gravity="center|top"
+                                    android:orientation="vertical">
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:gravity="center|top"
+                                        android:orientation="horizontal">
+
+
+                                            <de.hdodenhof.circleimageview.CircleImageView
+                                                android:id="@+id/view_pro_profile_page_pro_account_logo_id"
+                                                android:layout_width="20dp"
+                                                android:layout_height="20dp"
+                                                android:layout_margin="5dp"
+                                                android:src="@drawable/lawyer_icon" />
+
+                                            <TextView
+                                                android:id="@+id/view_pro_profile_page_pro_account_txtvw_id"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:text="Lawyer"
+                                                android:textAllCaps="false"
+                                                android:textColor="#027C64"
+                                                android:textSize="20sp"
+                                                android:textStyle="bold" />
+
+                                            <ImageView
+                                                android:layout_width="20dp"
+                                                android:layout_height="20dp"
+                                                android:layout_margin="3dp"
+                                                android:src="@drawable/ic_tick" />
+                                    </LinearLayout>
+
+                                    <RatingBar
+                                        android:id="@+id/view_pro_profile_page_ratingbar_id"
+                                        style="@android:attr/ratingBarStyleSmall"
+                                        android:layout_width="240dp"
+                                        android:layout_height="40dp"
+                                        android:isIndicator="true"
+                                        android:max="5"
+                                        android:progressTint="#FFD700"
+                                        android:scaleX=".5"
+                                        android:scaleY=".5"
+                                        android:secondaryProgressTint="@color/white"
+                                        android:transformPivotX="120dp"
+                                        android:transformPivotY="0dp" />
+
+                                    <TextView
+                                        android:id="@+id/view_pro_profile_page_rating_number_id"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="-15dp"
+                                        android:textColor="#FABD05"
+                                        android:textSize="15dp"
+                                        android:textStyle="bold" />
+
+                                </LinearLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="5"
+                            android:gravity="top|right">
+
+                            <androidx.appcompat.widget.AppCompatButton
+                                android:id="@+id/view_profile_page_profile_img_btn_id"
+                                android:layout_width="170dp"
+                                android:layout_height="170dp"
+                                android:layout_marginTop="10dp"
+                                android:layout_marginRight="-180dp"
+                                android:background="@drawable/custom_button_1_2" />
+
+                            <de.hdodenhof.circleimageview.CircleImageView
+                                android:id="@+id/view_profile_page_profile_img_id"
+                                android:layout_width="170dp"
+                                android:layout_height="170dp"
+                                android:layout_margin="10dp"
+                                android:src="@drawable/profile_img"
+                                app:civ_border_color="#E6E6E6"
+                                app:civ_border_width="3dp" />
+
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+                <TextView
+                    android:id="@+id/view_profile_page_profile_name_id"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:gravity="center"
+                    android:textColor="#027C64"
+                    android:textSize="30sp"
+                    android:textStyle="bold" />
+
+
+                <LinearLayout
+                    android:id="@+id/view_profile_page_follow_layout_id"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/view_profile_page_follow_txtvw_id"
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"
+                        android:background="@drawable/custom_button_11"
+                        android:drawableStart="@drawable/ic_follow_icon_2"
+                        android:gravity="start|center"
+                        android:paddingStart="45dp"
+                        android:text="  Follow"
+                        android:textAllCaps="false"
+                        android:textColor="#027C64"
+                        android:textSize="14dp"
+                        android:textStyle="bold" />
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/view_profile_page_follow_btn_id"
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="-150dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/custom_button_10" />
+
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/custom_button_11"
+                        android:drawableStart="@drawable/ic_massage_2"
+                        android:gravity="start|center"
+                        android:paddingStart="30dp"
+                        android:text="  Massage"
+                        android:textAllCaps="false"
+                        android:textColor="#027C64"
+                        android:textSize="14dp"
+                        android:textStyle="bold" />
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/view_profile_page_massage_btn_id"
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="-150dp"
+                        android:background="@drawable/custom_button_10" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="#00C49E" />
+
+                //Phone number
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_marginLeft="1.5dp"
+                        android:src="@drawable/ic_baseline_perm" />
+
+                    <TextView
+                        android:id="@+id/view_profile_page_profile_phone_number_id"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="8dp"
+                        android:textColor="#027C64"
+                        android:textSize="20sp" />
+                </LinearLayout>
+
+                //Email address
+
+                <LinearLayout
+                    android:id="@+id/view_profile_page_profile_emaillayout_id"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center|left"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="24dp"
+                            android:layout_marginLeft="3dp"
+                            android:src="@drawable/ic_baseline_email" />
+
+                        <TextView
+                            android:id="@+id/view_profile_page_profile_email_id"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:textColor="#027C64"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+                </LinearLayout>
+
+
+                //Nid card number
+
+                <LinearLayout
+                    android:id="@+id/view_profile_page_profile_nidlayout_id"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center|left"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="24dp"
+                            android:layout_marginLeft="3dp"
+                            android:src="@drawable/ic_baseline_nid_card" />
+
+                        <TextView
+                            android:id="@+id/view_profile_page_profile_nid_id"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:textColor="#027C64"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                //HSC registration number
+
+                <LinearLayout
+                    android:id="@+id/view_profile_page_profile_hscregnumberlayout_id"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center|left"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:layout_marginLeft="2dp"
+                            android:src="@drawable/ic_baseline_reg" />
+
+                        <TextView
+                            android:id="@+id/view_profile_page_profile_hscregnumber_id"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="7dp"
+                            android:textColor="#027C64"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                //University
+
+                <LinearLayout
+                    android:id="@+id/view_profile_page_profile_universitylayout_id"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center|left"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_marginLeft="2dp"
+                            android:src="@drawable/ic_university" />
+
+                        <TextView
+                            android:id="@+id/view_profile_page_profile_university_id"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:textColor="#027C64"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                //Address
+
+                <LinearLayout
+                    android:id="@+id/view_profile_page_profile_addresslayout_id"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center|left"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:layout_marginTop="3dp"
+                            android:src="@drawable/ic_baseline_location" />
+
+                        <TextView
+                            android:id="@+id/view_profile_page_profile_address_id"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="8dp"
+                            android:textColor="#027C64"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+                </LinearLayout>
+
+
+                //Followed by
+
+                <LinearLayout
+                    android:id="@+id/view_profile_page_profile_followedbylayout_id"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="18dp"
+                            android:layout_marginLeft="3dp"
+                            android:src="@drawable/ic_follow_icon" />
+
+                        <TextView
+                            android:id="@+id/view_profile_page_profile_followedby_id"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:textColor="#027C64"
+                            android:textSize="20sp" />
+                    </LinearLayout>
+                </LinearLayout>
+
+
+                //Following
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="18dp"
+                        android:layout_height="18dp"
+                        android:layout_marginLeft="3dp"
+                        android:src="@drawable/ic_following_icon" />
+
+                    <TextView
+                        android:id="@+id/view_profile_page_profile_following_id"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:textColor="#027C64"
+                        android:textSize="20sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="20dp"
+                    android:background="#00C49E" />
+
+
+                <LinearLayout
+                    android:id="@+id/view_profile_page_post_layout_id"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="20dp"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="200dp"
+                            android:layout_height="45dp"
+                            android:background="@drawable/custom_button_11"
+                            android:drawableStart="@drawable/ic_appointment"
+                            android:gravity="start|center"
+                            android:paddingStart="25dp"
+                            android:text="  Take Appointment"
+                            android:textAllCaps="false"
+                            android:textColor="#027C64"
+                            android:textSize="14dp"
+                            android:textStyle="bold" />
+
+                        <androidx.appcompat.widget.AppCompatButton
+                            android:id="@+id/view_profile_page_appointment_btn_id"
+                            android:layout_width="200dp"
+                            android:layout_height="45dp"
+                            android:layout_marginLeft="-200dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/custom_button_10" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="20dp"
+                        android:text="Posts"
+                        android:textColor="#027C64"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="5dp"
+                android:orientation="vertical">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/view_pro_profile_page_recyclerview_id"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <!--Dont edit beloow-->
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

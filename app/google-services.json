@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57428222885",
+    "project_id": "profind-15df9",
+    "storage_bucket": "profind-15df9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57428222885:android:f47e0aeb3d92727062be4c",
+        "android_client_info": {
+          "package_name": "com.example.profind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57428222885-839e2v8rjpcvjncqitdcnpueaafu13s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxdgNO5qtOcze16NTCDQAUgiwJkIvx8qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57428222885-839e2v8rjpcvjncqitdcnpueaafu13s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

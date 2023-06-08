@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEFCF9"
+    android:orientation="vertical"
+    tools:context=".d_0_0_6_make_pro_account">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@drawable/navigation_bar_2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="9">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/make_pro_acnt_page_back_btn_id"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginRight="-42dp"
+                    android:background="@drawable/custom_button_1_2" />
+
+                <androidx.appcompat.widget.AppCompatImageButton
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="10dp"
+                    android:background="@drawable/back_arraw" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="7"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Make Professional Account"
+                    android:textColor="#027C64"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="10dp"
+                android:layout_weight="1"
+                android:gravity="end"></LinearLayout>
+        </LinearLayout>
+    </androidx.appcompat.widget.Toolbar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="30dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/pro_acnt_warning"
+                android:textColor="#027C64"
+                android:textSize="14sp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/make_pro_acnt_page_email_inptlout_id"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                app:errorEnabled="true"
+                app:hintEnabled="false">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/custom_edit_text"
+                    android:drawableStart="@drawable/ic_baseline_email"
+                    android:drawablePadding="10dp"
+                    android:hint="Email address"
+                    android:inputType="textEmailAddress"
+                    android:textCursorDrawable="@drawable/custom_cursor" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/make_pro_acnt_page_reg_number_inptlout_id"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                app:errorEnabled="true"
+                app:hintEnabled="false">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/custom_edit_text"
+                    android:drawableStart="@drawable/ic_baseline_reg"
+                    android:drawablePadding="10dp"
+                    android:hint="HSC registration number"
+                    android:inputType="number"
+                    android:textCursorDrawable="@drawable/custom_cursor" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/make_pro_acnt_page_nid_number_inptlout_id"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                app:errorEnabled="true"
+                app:hintEnabled="false">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/custom_edit_text"
+                    android:drawableStart="@drawable/ic_baseline_nid_card"
+                    android:drawablePadding="10dp"
+                    android:hint="NID number"
+                    android:inputType="number"
+                    android:textCursorDrawable="@drawable/custom_cursor" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/make_pro_acnt_page_institution_inptlout_id"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                app:errorEnabled="true"
+                app:hintEnabled="false">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/custom_edit_text"
+                    android:drawableStart="@drawable/ic_university"
+                    android:drawablePadding="10dp"
+                    android:hint="Graduated from (Institution name)"
+                    android:inputType="text"
+                    android:textCursorDrawable="@drawable/custom_cursor" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/make_pro_acnt_page_address_inptlout_id"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                app:errorEnabled="true"
+                app:hintEnabled="false">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/custom_edit_text"
+                    android:drawableStart="@drawable/ic_baseline_location"
+                    android:drawablePadding="10dp"
+                    android:hint="Present address"
+                    android:inputType="text"
+                    android:textCursorDrawable="@drawable/custom_cursor" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Your passport size photo"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="10dp"
+                />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/make_pro_acnt_page_passport_imgvw_id"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/custom_edit_text"
+                android:padding="20dp"
+                android:src="@drawable/ic_add_image" />
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/make_pro_acnt_page_passport_btn_id"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/custom_button_1"
+                android:padding="20dp"
+                android:layout_marginTop="-150dp"
+                 />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NID card photo"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="10dp"
+                />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/make_pro_acnt_page_nid_imgvw_id"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/custom_edit_text"
+                android:padding="20dp"
+                android:src="@drawable/ic_add_image" />
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/make_pro_acnt_page_nid_btn_id"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/custom_button_1"
+                android:padding="20dp"
+                android:layout_marginTop="-150dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Higher Education ( University ) certificate photo"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="10dp"
+                />
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/make_pro_acnt_page_uni_certificate_imgvw_id"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/custom_edit_text"
+                android:padding="20dp"
+                android:src="@drawable/ic_add_image" />
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/make_pro_acnt_page_uni_certificate_btn_id"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/custom_button_1"
+                android:padding="20dp"
+                android:layout_marginTop="-150dp"
+                />
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/make_pro_acnt_page_register_btn_id"
+                android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"
+                android:layout_marginBottom="100dp"
+                android:background="@drawable/custom_button_2"
+                android:text="Apply for verification"
+                android:textAllCaps="false"
+                android:textColor="#027C64"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

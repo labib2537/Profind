@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.profind">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ss_logo"
+        android:supportsRtl="true"
+        android:theme="@style/splash_scrn">
+        <activity
+            android:name=".d_3_0_complain_box_page"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_4_8_Appointments_detailes"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_4_5_previous_appointment"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_4_4_asaclient"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_4_3_asapro"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_4_2_available_time"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_4_1_make_schedule"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_14_Take_appointment"
+            android:exported="false" />
+        <activity
+            android:name=".d_2_0_Massage_person"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_Profile_view"
+            android:exported="false" />
+        <activity
+            android:name=".e_1_13_Group_post_anything"
+            android:exported="false" />
+        <activity
+            android:name=".e_1_12_Group_rename"
+            android:exported="false" />
+        <activity
+            android:name=".e_1_11_Group_members"
+            android:exported="false" />
+        <activity
+            android:name=".e_1_10_Group_profile"
+            android:exported="false" />
+        <activity
+            android:name=".e_1_6_Group_add_members"
+            android:exported="false" />
+        <activity
+            android:name=".e_1_5_Group_search"
+            android:exported="false" />
+        <activity
+            android:name=".e_1_4_Group_create"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_12_img_vdo_show"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_9_post_location_page"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_7_post_anything"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_6_make_pro_account"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_5_Profile_setting"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_4_Appointments"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_3_Full_image_view"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_2_Edit_details_profile"
+            android:exported="false" />
+        <activity
+            android:name=".b_2_Otp_2"
+            android:exported="false" />
+        <activity
+            android:name=".b_1_1_ChangePassword_page"
+            android:exported="false" />
+        <activity
+            android:name=".b_1_0_ChangePassword_phone_page"
+            android:exported="false" />
+        <activity
+            android:name=".b_2_Otp"
+            android:exported="false" />
+        <activity
+            android:name=".d_2_Massage"
+            android:exported="false" />
+        <activity
+            android:name=".d_1_Search"
+            android:exported="false" />
+        <activity
+            android:name=".c_0_HomePage"
+            android:exported="false" />
+        <activity
+            android:name=".d_0_0_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".b_1_CreateAccount"
+            android:exported="false" />
+        <activity
+            android:name=".d_3_Menu_page"
+            android:exported="false" />
+        <activity
+            android:name=".f_3_lawyer_page"
+            android:exported="false" />
+        <activity
+            android:name=".f_2_builder_page"
+            android:exported="false" />
+        <activity
+            android:name=".f_1_teacher_page"
+            android:exported="false" />
+        <activity
+            android:name=".f_0_doctor_page"
+            android:exported="false" />
+        <activity
+            android:name=".b_0_Login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

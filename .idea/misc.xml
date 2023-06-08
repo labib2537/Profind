@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable-v24/custom_button_11.xml" value="0.1185" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable-v24/custom_button_8.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable-v24/custom_edit_text_2.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.1245" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_1.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_10.xml" value="0.1005" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_11.xml" value="0.1185" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_12.xml" value="0.127" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_1_2.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_1_3.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_2.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_3.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_4.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_5.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_6.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_7.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_8.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_button_9.xml" value="0.1145" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_cursor.xml" value="0.1145" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_edit_text.xml" value="0.106" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/custom_edit_text_2.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/gradient.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_add_image.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_add_location.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_block.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_broken_image.xml" value="0.1105" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_cloud_upload.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_delete_forever.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_edit.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_email.xml" value="0.1245" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_image.xml" value="0.1245" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_location.xml" value="0.1245" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_lock_open.xml" value="0.1245" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_nid_card.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_perm.xml" value="0.1245" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_phone.xml" value="0.1245" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_baseline_reg.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_earth_icon.xml" value="0.148" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_follow_icon.xml" value="0.1185" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_follow_icon_2.xml" value="0.1115" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_following_icon.xml" value="0.127" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_following_icon_2.xml" value="0.1115" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_group.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1245" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1245" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_rename.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_tick.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ic_university.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/navigation_bar_1.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/navigation_bar_2.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/navigation_bar_3.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/navigation_bar_4.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/navigation_bar_5.xml" value="0.1165" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/navigation_bar_6.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/navigation_bar_7.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/navigation_bar_8.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/ripple_effect.xml" value="0.1115" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/spash_screen.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/splash_screen.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/tab_background.xml" value="0.1035" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/drawable/tab_indicator.xml" value="0.1035" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_a_splash_screen.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_b_0_login.xml" value="0.11865942028985507" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_b_1_0_change_password_phone_page.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_b_1_1_change_password_page.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_b_1_create_account.xml" value="0.1527777777777778" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_b_2_otp.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_b_2_otp_2.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_c_0_homepage.xml" value="0.22" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_12_img_vdo_show.xml" value="0.22" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_1_profile_bottomsheet_1.xml" value="0.22" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_1_profile_bottomsheet_2.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_2_edit_details_profile.xml" value="0.1640625" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_3_full_image_view.xml" value="0.1640625" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_4_appointments.xml" value="0.1640625" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_5_profile_setting.xml" value="0.1640625" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_6_make_pro_account.xml" value="0.22" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_7_post_anything.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_8_post_anything_setting.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_9_post_location_page.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_0_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_1_Pro_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_1_pro_profile.xml" value="0.16312849162011173" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_0_profile.xml" value="0.1111111111111111" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_1_search.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_2_massage.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_d_3_menu_page.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e110_group_profile.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e111_group_members.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e113_group_post_anuthing.xml" value="0.22" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e_0_0_group_profile_bottomsheet_1.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e_0_0_group_profile_bottomsheet_2.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e_0_0_group_profile_bottomsheet_3.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e_1_10_group_profile.xml" value="0.22" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e_1_12_group_rename.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e_1_13_group_post_anuthing.xml" value="0.22" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e_1_4_group_create.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e_1_5_group_search.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_e_1_6_group_add_members.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_f_0_doctor_page.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_f_1_teacher_page.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_f_2_builder_page.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_f_3_lawyer_page.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/activity_view_profile.xml" value="0.1640625" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/custom_button_11.xml" value="0.1640625" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_e_0_home_page_fragment.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_e_1_1_group_page_1_posts.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_e_1_2_group_page_2_groups.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_e_1_3_group_page_3_find.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_e_1_group_page_fragment.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_e_2_notification_page_fragment.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_e_3_1__followers_page_1_following.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_e_3_1_followers_page_1_follow.xml" value="0.1" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_e_3_2__followers_page_2_followers.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_e_3_followers_page_fragment.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_e_3_post_page_fragment.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_f_0_1_doctor_page_1.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_f_0_2_doctor_page_2.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_f_1_1_teacher_page_1.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_f_1_2_teacher_page_2.xml" value="0.16354166666666667" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_f_2_1_builder_page_1.xml" value="0.16354166666666667" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_f_2_2_builder_page_2.xml" value="0.16354166666666667" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_f_3_1_lawyer_page_1.xml" value="0.16354166666666667" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/fragment_f_3_2_lawyer_page_2.xml" value="0.16354166666666667" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/sample_g_0_post_frame.xml" value="0.3141025641025641" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/sample_g_1_id_frame.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/sample_g_1_img_vdo_frame.xml" value="0.1796875" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/sample_g_2_id_frame.xml" value="0.22" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/sample_g_3_groups_frame.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android project/Profind/app/src/main/res/layout/sample_g_4_invite_members.xml" value="0.1796875" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_b_0_login.xml" value="0.33" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_b_1_0_change_password_phone_page.xml" value="0.33" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_b_1_1_change_password_page.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_b_1_create_account.xml" value="0.33" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_b_2_otp.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_b_2_otp_2.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_c_0_homepage.xml" value="0.33" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_c_1_homepage_posts_bottomsheet_1.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_c_2_homepage_posts_bottomsheet_2.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_12_img_vdo_show.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_14_take_appointment.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_1_profile_bottomsheet_1.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_1_profile_bottomsheet_2.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_2_edit_details_profile.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_3_full_image_view.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_4_1_make_schedule.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_4_2_available_time.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_4_3_asapro.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_4_4_asaclient.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_4_5_previous_appointment.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_4_8_appointments_detailes.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_4_appointments.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_5_profile_setting.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_6_make_pro_account.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_7_post_anything.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_9_post_location_page.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_profile.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_0_0_profile_view.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_1_search.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_2_0_massage_person.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_2_massage.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_3_0_complain_box_page.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_d_3_menu_page.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_e_0_0_group_profile_bottomsheet_1.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_e_1_10_group_profile.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_e_1_11_group_members.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_e_1_12_group_rename.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_e_1_13_group_post_anuthing.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_e_1_4_group_create.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_e_1_5_group_search.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_f_0_doctor_page.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_f_1_teacher_page.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_f_2_builder_page.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/activity_f_3_lawyer_page.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/fragment_e_0_home_page_fragment.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/fragment_f_0_1_doctor_page_1.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/fragment_f_0_2_doctor_page_2.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/fragment_f_1_1_teacher_page_1.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_0_post_frame.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_10_notifications.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_1_img_vdo_frame.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_2_id_frame.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_3_groups_frame.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_4_invite_members.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_5_comments.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_6_massage_1.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_6_massage_2.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_7_massages.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_8_times.xml" value="0.3489583333333333" />
+        <entry key="..\:/Our Project/Profind/app/src/main/res/layout/sample_g_9_appointments.xml" value="0.3489583333333333" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_1.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_10.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_11.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_12.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_1_2.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_1_3.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_2.xml" value="0.1355" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_3.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_4.xml" value="0.1025" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_5.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_6.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_7.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_8.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_button_9.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_cursor.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/custom_edit_text.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/ic_baseline_lock_open.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/ic_baseline_perm.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/ic_baseline_phone.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/ic_baseline_send.xml" value="0.1025" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.12" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/navigation_bar_1.xml" value="0.14" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/navigation_bar_2.xml" value="0.14" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/navigation_bar_3.xml" value="0.1015" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/navigation_bar_4.xml" value="0.1015" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/navigation_bar_5.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/navigation_bar_6.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/navigation_bar_7.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/navigation_bar_8.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/splash_screen.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/tab_background.xml" value="0.1" />
+        <entry key="..\:/Profind/app/src/main/res/drawable/tab_indicator.xml" value="0.1015" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_a_splash_screen.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_b_0_0_change_password.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_b_0_login.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_b_1_0_change_password_TEmail.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_b_1_0_change_password_email_page.xml" value="0.16354166666666667" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_b_1_0_change_password_phone_page.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_b_1_1_change_password_page.xml" value="0.16354166666666667" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_b_1_create_account.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_b_2_otp.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_b_2_otp_2.xml" value="0.16354166666666667" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_c_0_home_page.xml" value="0.175" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_c_0_homepage.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_c_1_homepage_posts_bottomsheet_1.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_d_0_0_14_take_appointment.xml" value="0.16296296296296298" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_d_0_0_1_profile_bottomsheet_1.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_d_0_0_3_full_image_view.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_d_0_0_4_1_make_schedule.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_d_0_0_6_make_pro_account.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_d_0_normal_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_d_0_profile.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_d_1_search.xml" value="0.1640625" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_d_2_0_massage_person.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_d_2_massage.xml" value="0.1640625" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_d_3_menu_page.xml" value="0.16666666666666666" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_f_0_doctor_page.xml" value="0.16666666666666666" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_f_1_teacher_page.xml" value="0.1640625" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_f_2_builder_page.xml" value="0.1640625" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_f_3_lawyer_page.xml" value="0.1640625" />
+        <entry key="..\:/Profind/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/custom_button_2.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/fragment_e_0_home_page_fragment.xml" value="0.1640625" />
+        <entry key="..\:/Profind/app/src/main/res/layout/fragment_e_1_group_page_fragment.xml" value="0.1640625" />
+        <entry key="..\:/Profind/app/src/main/res/layout/sample_g_2_id_frame.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/sample_g_3_groups_frame.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/sample_g_4_invite_members.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/sample_g_5_comments.xml" value="0.1796875" />
+        <entry key="..\:/Profind/app/src/main/res/layout/sample_g_7_massages.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_1.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_10.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_11.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_12.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_1_2.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_2.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_3.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_4.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_5.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_6.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_7.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_8.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_button_9.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/custom_cursor.xml" value="0.12" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/gradient.xml" value="0.1" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/ic_appointment.xml" value="0.114" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/ic_baseline_delete_forever.xml" value="0.1465" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/ic_baseline_report.xml" value="0.1465" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/ic_comment.xml" value="0.156" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/ic_love_not_given_icon.xml" value="0.156" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/ic_massage_2.xml" value="0.1225" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/drawable/splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_b_2_otp.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_b_2_otp_2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_c_0_homepage.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_c_1_homepage_posts_bottomsheet_1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_c_2_homepage_posts_bottomsheet_2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d0042_available_time.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d0048_appointments_detailes.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_14_take_appointment.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_1_profile_bottomsheet_1.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_1_profile_bottomsheet_2.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_2_edit_details_profile.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_4_1_make_schedule.xml" value="0.22" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_4_2_available_time.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_4_3_asapro.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_4_4_asaclient.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_4_8_appointments_detailes.xml" value="0.22" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_4_appointments.xml" value="0.22" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_6_make_pro_account.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_profile.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_0_0_profile_view.xml" value="0.22" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_1_search.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_2_0_massage_person.xml" value="0.22" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_2_massage.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_3_0_complain_box_page.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_d_3_menu_page.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_e_0_0_group_profile_bottomsheet_2.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_e_1_10_group_profile.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_e_1_11_group_members.xml" value="0.1" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/activity_f_0_doctor_page.xml" value="0.1796875" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/fragment_e_0_home_page_fragment.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/fragment_e_1_1_group_page_1_posts.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/fragment_e_1_group_page_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_0_post_frame.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_10_notifications.xml" value="0.22" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_2_id_frame.xml" value="0.22" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_4_invite_members.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_5_comments.xml" value="0.22" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_6_massage_1.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_6_massage_2.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_6_massages_1.xml" value="0.22" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_6_massages_2.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_7_massages.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_8_times.xml" value="0.22" />
+        <entry key="..\:/Users/Solayman/OneDrive/Documents/Profind/app/src/main/res/layout/sample_g_9_appointments.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
